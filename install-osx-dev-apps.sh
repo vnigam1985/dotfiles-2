@@ -29,21 +29,16 @@ brew install \
     ruby \
     go \
     python \
-    jq \
     ansible \
     awscli \
-    csshX \
-    hub \
     diff-so-fancy \
     packer \
     terraform \
     vault \ 
-    fzf \
-    parallel \
     telnet \ 
     netcat \
     Tenzer/tap/multitime \ 
-    ripgrep
+    the_silver_searcher
 
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 
