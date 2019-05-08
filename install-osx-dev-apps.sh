@@ -31,6 +31,7 @@ brew install \
     python \
     ansible \
     awscli \
+    azure-cli \
     diff-so-fancy \
     packer \
     terraform \
